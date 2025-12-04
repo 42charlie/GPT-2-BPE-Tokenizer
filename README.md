@@ -1,4 +1,5 @@
 # 🧠 BPE Tokenizer (GPT-2 Style)
+[![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/42charlie/GPT-2-Shakespeare-Tokenizer)
 
 > **A from-scratch implementation of the Byte Pair Encoding (BPE) algorithm to demystify how Large Language Models (LLMs) process text.**
 
